@@ -1,4 +1,4 @@
-# EcoFactory Solutions
+# API-6GPI-EcoFactory Solutions
 Projeto 6°Semestre GPI
 # Aprendizado por Projeto Integrado (API) - Template
 
