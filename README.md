@@ -3,7 +3,7 @@ Projeto 6°Semestre GPI
 # Aprendizado por Projeto Integrado (API) - Template
 
 <p align="center">
- <img src="https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Imagens/Logo.png" width="100%"/>
+ <img src="https://github.com/AndersonCalderan/MVP/blob/main/Docs/Doc1/Gemini_Generated_Image_rxr701rxr701rxr7.png" width="100%"/>
 </p>
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
