@@ -2,6 +2,10 @@
 Projeto 6°Semestre GPI
 # Aprendizado por Projeto Integrado (API) - Template
 
+<p align="center">
+ <img src="https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%201/Imagens/Logo.png" width="100%"/>
+</p>
+
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
