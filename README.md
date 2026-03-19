@@ -7,9 +7,7 @@ Projeto 6°Semestre GPI
  <img src="https://github.com/AndersonCalderan/MVP/blob/main/Docs/Doc1/Gemini_Generated_Image_rxr701rxr701rxr7.png" width="100%"/>
 </p>
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Este projeto tem como finalidade aplicar os conceitos de tecnologia aplicada à produção, por meio da metodologia ágil SCRUM, promovendo o uso de ferramentas digitais colaborativas como o GitHub, com foco no desenvolvimento da autonomia, proatividade, colaboração e entrega de valor em ambientes produtivos reais ou simulados.
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -20,6 +18,16 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
+
+Mapeamento e análise, com base em dados brutos. O projeto visa desenvolver um painel interativo em Power BI, alimentado por dados tratados em Python (Google Colab) , permitindo visualizar:
+
+- Principais estados e produtos exportados (por NCM);
+
+- Países de destino e sazonalidade mensal das cargas;
+
+- Indicadores gerenciais como valor médio por tonelada, evolução da balança comercial e gargalos logísticos.
+
+(*)
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
@@ -57,12 +65,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como Supervisor, deseja um portal onde possa visualizar relatórios de produção (diários/semanais) em formato digital                                                  | 5          | 1      |
-| 2    | Alta       | Como Supervisor, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como analista, quero receber os laudos para anexar ao processo de auditoria interna                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-
-
+| 01    | ALta       | Obter base de dados para desensolvimento do dashbord.                                                                                                  | 2          | 1      |
+| 02    | Alta       | Filtrar dados iniciais (Exemplo: Visualizar exportações por estado, NCM e país de destino para entender o cenário nacional.)                           | 5          | 1      |
+| 03    | Alta       | identificar as URFs que processamas exportações, para mapear rotas logísticas.​                                                                         | 8          | 1      |
+| 04    | Média      | Iniciar desenvolvimento do dashboard.                                                                                                                  | 2          | 1      |
 
   
 # Registro das Sprints
