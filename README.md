@@ -59,11 +59,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Python (Colab)
 * Mysql
 
-* https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
-* DADOS EXPORTAÇÃO>NCM>VIA>PAISES. ETC..
-
-
-
 # Product Backlog
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
@@ -82,3 +77,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+
+
+# RASCUNHO
+
+* https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
+* DADOS EXPORTAÇÃO>NCM>VIA>PAISES. ETC..
