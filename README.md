@@ -59,6 +59,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Python (Colab)
 * Mysql
 
+* https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
+
 
 
 # Product Backlog
