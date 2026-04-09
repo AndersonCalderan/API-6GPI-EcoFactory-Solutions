@@ -74,9 +74,9 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 08/04/2026 | em andamento  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 02                | 06/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 03/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
 
 
 # RASCUNHO
