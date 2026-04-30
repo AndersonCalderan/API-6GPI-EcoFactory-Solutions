@@ -63,10 +63,12 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 01    | ALta       | Obter base de dados para desensolvimento do dashbord.                                                                                                  | 2          | 1      |
+| 01    | Alta       | Obter base de dados para desensolvimento do dashbord.                                                                                                  | 2          | 1      |
 | 02    | Alta       | Filtrar dados iniciais (Exemplo: Visualizar exportações por estado, NCM e país de destino para entender o cenário nacional.)                           | 5          | 1      |
 | 03    | Alta       | identificar as URFs que processamas exportações, para mapear rotas logísticas.​                                                                         | 8          | 1      |
 | 04    | Média      | Iniciar desenvolvimento do dashboard.                                                                                                                  | 2          | 1      |
+| 05    | Alta      | Power BI Base dados 2026.|  4          | 2      |
+                         
 
   
 # Registro das Sprints
