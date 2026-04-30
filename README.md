@@ -85,4 +85,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 * https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
 * DADOS EXPORTAÇÃO>NCM>VIA>PAISES. ETC..
-* Lançar tarefas no Jira 
+* Lançar tarefas no Jira
+
+* https://sqliteonline.com/
+
+  
