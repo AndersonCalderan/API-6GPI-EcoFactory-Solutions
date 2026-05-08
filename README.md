@@ -64,12 +64,12 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 01    | Alta       | Obter base de dados para desensolvimento do dashbord.                                                                                                  | 2          | 1      |
-| 02    | Alta       | Filtrar dados iniciais (Exemplo: Visualizar exportações por estado, NCM e país de destino para entender o cenário nacional.)                           | 5          | 1      |
-| 03    | Alta       | identificar as URFs que processamas exportações, para mapear rotas logísticas.​                                                                         | 8          | 1      |
+| 02    | Alta       | Filtrar dados iniciais (Exemplo: Visualizar exportações por estado do Café solúvel, mesmo descafeinado e país de destino para entender o cenário de exportação.)                           | 5          | 1      |
+| 03    | Alta       | identificar os paises que tem a maior exportação, para mapear rotas logísticas e as vias mais utilizadas no primeiro trimestre de 2026.​                                                                         | 8          | 1      |
 | 04    | Média      | Iniciar desenvolvimento do dashboard.                                                                                                                  | 2          | 1      |
-| 05    | Alta      | Power BI Base dados 2026.|  4          | 2      |
-                         
-
+| 05    | Alta      | Desenvolver dashboard (Power BI) para o produto Café solúvel, mesmo descafeinado referente a 2026.|  4          | 2      |
+| 06    | Média     | Obter base de dados dos anos (2023 - 2025) para produto Café solúvel, mesmo descafeinado, limpar base de dadosb para construir dashboards no Power BI.|  5          | 3      |                         
+| 07    | Alta      | Desenvolver dashboard (Power BI) para o produto Café solúvel, e comparar os resultados de expertação entre os anos 2023, 2024, 2025 e 2026.|  4          | 3      |
   
 # Registro das Sprints
 
