@@ -56,7 +56,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Power BI
 * Microsoft Excel
 * GuitHub
-* Mysql
+* Sqliteonline
 
 # Product Backlog
 
