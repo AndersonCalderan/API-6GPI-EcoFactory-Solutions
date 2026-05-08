@@ -70,6 +70,33 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 05    | Alta      | Desenvolver dashboard (Power BI) para o produto Café solúvel, mesmo descafeinado referente a 2026.|  4          | 2      |
 | 06    | Média     | Obter base de dados dos anos (2023 - 2025) para produto Café solúvel, mesmo descafeinado, limpar base de dadosb para construir dashboards no Power BI.|  5          | 3      |                         
 | 07    | Alta      | Desenvolver dashboard (Power BI) para o produto Café solúvel, e comparar os resultados de expertação entre os anos 2023, 2024, 2025 e 2026.|  4          | 3      |
+
+## Sprint 1
+- [x] Criação GuitHub;
+- [X] Desenvolvimento Jira;
+- [x] Download e armazenamento das bases brutas 2026 (CSV/TXT);
+- [x] Desenvolvimento inicial do Dashboard;
+
+## MVP 1ª Sprint
+> Confira o desenvolvimento [aqui](MVP/sp1.md)
+    
+## Sprint 2
+- [x] Templete do Power BI atualizado 2026;
+- [x] Análises de exportação Janeiro, Fevereiro e Março e gráficos de sazonalidade (TOP 10 Paises);
+- [x] Atualização Jira e GuitHub
+
+## MVP 2ª Sprint 
+> Confira o o desenvolvimento [aqui](MVP/sp2.md)
+
+## Sprint 3
+- [x] Download e armazenamento das bases brutas 2023, 2024 e 2025 (CSV/TXT)
+- [X] Limpar base de dados 2023, 2024 e 2025 (Café solúvel, mesmo descafeinado) para desenvolver PowerBI
+- [ ] Dashboard final para compara produto Café solúvel, mesmo descafeinado entre os anos 2023-2026 referente ao primeiro trimestre;
+- [ ] Repositório GitHub com código e documentação;
+
+## MVP 3ª Sprint
+> Confira o desenvolvimento [aqui](MVP/sp3.md)
+
   
 # Registro das Sprints
 
