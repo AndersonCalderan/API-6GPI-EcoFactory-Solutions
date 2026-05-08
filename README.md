@@ -55,7 +55,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Jira Software
 * Power BI
 * Microsoft Excel
-* Slack
+* GuitHub
 * Python (Colab)
 * Mysql
 
