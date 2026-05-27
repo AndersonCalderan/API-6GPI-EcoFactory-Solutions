@@ -62,3 +62,5 @@
 ## 📂 Anexos / Evidências
 - Prints de tela  **
 
+- ![image](https://github.com/AndersonCalderan/API-2SEM-012024-GPI/blob/main/Sprint%203/Documento/Burndown.gif)
+
