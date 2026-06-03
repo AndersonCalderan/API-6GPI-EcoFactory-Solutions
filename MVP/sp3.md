@@ -61,4 +61,4 @@
 
 ## 📂 Anexos / Evidências
 
-![image](https://github.com/AndersonCalderan/API-6GPI-EcoFactory-Solutions/blob/main/Docs/Doc1/Sprint%201.gif)
+![image](https://github.com/AndersonCalderan/API-6GPI-EcoFactory-Solutions/blob/main/Docs/Doc1/sprint%203.gif)
