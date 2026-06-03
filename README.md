@@ -90,8 +90,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Sprint 3
 - [x] Download e armazenamento das bases brutas 2023, 2024 e 2025 (CSV/TXT) ✅
 - [X] Limpar base de dados 2023, 2024 e 2025 (Café solúvel, mesmo descafeinado) para desenvolver PowerBI ✅
-- [ ] Dashboard final para compara produto Café solúvel, mesmo descafeinado entre os anos 2023-2026 referente ao primeiro trimestre;
-- [ ] Repositório GitHub com código e documentação;
+- [X] Dashboard final para compara produto Café solúvel, mesmo descafeinado entre os anos 2023-2026 referente ao primeiro trimestre;✅
+- [X] Repositório GitHub com código e documentação;✅
 
 ## MVP 3ª Sprint
 > Confira o desenvolvimento [aqui](MVP/sp3.md)
@@ -105,14 +105,5 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 02                | 06/05/2026 | Concluido  | [MVP](MVP/sp2.md)  |
 | 03                | 03/06/2026 | em andamento  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
-
-
-# RASCUNHO
-
-* https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/estatisticas/base-de-dados-bruta
-* DADOS EXPORTAÇÃO>NCM>VIA>PAISES. ETC..
-* Lançar tarefas no Jira
-
-* https://sqliteonline.com/
 
   
