@@ -60,6 +60,5 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+
+![image](https://github.com/AndersonCalderan/API-6GPI-EcoFactory-Solutions/blob/main/Docs/Doc1/Sprint%201.gif)
