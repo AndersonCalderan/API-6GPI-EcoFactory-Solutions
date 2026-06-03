@@ -25,8 +25,8 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como cliente, quero ver os paise que mais exprtão o produto Café solúvel, mesmo descafeinado        | Alta       | 5 pontos   |
-| US3 | Como cliente, quero  uma base de daso limpa para o desenvolvimento do Dashboard.                    | Alta       | 5 pontos   |
+| US1 | Como cliente, quero ver os paise que mais exportão o produto Café solúvel, mesmo descafeinado        | Alta       | 5 pontos   |
+| US2 | Como cliente, quero  uma base de daso limpa para o desenvolvimento do Dashboard.                     | Alta       | 5 pontos   |
 
 
 ---
